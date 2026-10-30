@@ -1,0 +1,22 @@
+body{
+background-color:lavendar;
+font-family:Arial,sans-serif;
+}
+h1{
+color:BLACK;
+text-align:center;
+}
+
+
+img {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: auto;
+        box-shadow: 3px 3px 10px gray;
+    border-radius: 10px;
+}
+h2{
+color:red;
+text-align:center;
+}
